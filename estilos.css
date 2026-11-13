@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 40px auto;
+}
+
+h1 {
+  color: #333;
+}
+
+li {
+  margin: 8px 0;
+}
